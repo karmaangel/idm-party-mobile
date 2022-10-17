@@ -1,0 +1,19 @@
+{
+  "classId": "idm.component.mobile.questionList",
+  "comName": "问卷调查",
+  "className": "IquestionList",
+  "comType": "common",
+  "comLangue": "vue",
+  "compositeAttr": [
+    {
+      "type": "input",
+      "layoutType": "inline",
+      "text": "唯一标识",
+      "bindKey": "ctrlId",
+      "disabled": true,
+      "default": "@[packageid]",
+      "desc": "",
+      "helpUrl": ""
+    }
+  ]
+}

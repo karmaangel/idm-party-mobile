@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "lasttime": "2022-10-10 15:15:19",
+  "author": "hjp",
+  "className": "parytMobile",
+  "module": [
+    {
+      "classId": "idm.component.mobile.text",
+      "comName": "文本",
+      "className": "IText",
+      "comType": "common",
+      "comLangue": "vue"
+    },
+    {
+      "classId": "idm.component.mobile.answerPaper",
+      "comName": "试卷答卷",
+      "className": "IanswerPaper",
+      "comType": "common",
+      "comLangue": "vue"
+    },
+    {
+      "classId": "idm.component.mobile.questionList",
+      "comName": "问卷调查",
+      "className": "IquestionList",
+      "comType": "common",
+      "comLangue": "vue"
+    }
+  ]
+}
